@@ -1,0 +1,32 @@
+C_VOID       = "\033[38;2;20;0;35m"
+C_DEEP_PURP  = "\033[38;2;55;0;90m"
+C_PURP       = "\033[38;2;100;0;160m"
+C_BRIGHT_VIO = "\033[38;2;140;30;200m"
+C_LAVENDER   = "\033[38;2;180;120;220m"
+C_MAUVE      = "\033[38;2;120;80;150m"
+C_WHITE      = "\033[38;2;210;200;215m"
+C_GRAY       = "\033[38;2;90;75;105m"
+C_DIM_GRAY   = "\033[38;2;45;35;55m"
+C_GREEN      = "\033[38;2;40;200;80m"
+C_YELLOW     = "\033[38;2;220;190;0m"
+C_RED        = "\033[38;2;220;50;50m"
+C_ORANGE     = "\033[38;2;220;140;20m"
+
+B   = "\033[1m"
+RS  = "\033[0m"
+BL  = "\033[5m"
+INV = "\033[7m"
+
+VD  = C_VOID
+DP  = C_DEEP_PURP
+P   = C_PURP
+BV  = C_BRIGHT_VIO
+LV  = C_LAVENDER
+MV  = C_MAUVE
+W   = C_WHITE
+GY  = C_GRAY
+DG  = C_DIM_GRAY
+G   = C_GREEN
+Y   = C_YELLOW
+R   = C_RED
+O   = C_ORANGE

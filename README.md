@@ -20,7 +20,7 @@
 
 # 📖 Description
 
-**DoS ATTACK** recreates the appearance and workflow of a modern network stress-testing utility through a fully interactive terminal interface.
+**DoS ATTACK** this is a module of the free version of my vantxploit multitool, recreates the appearance and workflow of a modern network stress-testing utility through a fully interactive terminal interface.
 
 The project focuses on providing a realistic user experience, featuring dynamic logs, animated statistics, colorful dashboards, and configurable options designed for demonstrations, presentations, interface development, and educational environments.
 
@@ -59,18 +59,7 @@ python main.py
 
 ---
 
-# 📂 Project Structure
 
-```
-DoS-Simulation-ETIC/
-│
-├── assets/
-├── src/
-├── config/
-├── README.md
-├── requirements.txt
-└── LICENSE
-```
 
 ---
 

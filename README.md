@@ -20,7 +20,7 @@
 
 # 📖 Description
 
-**DoS Simulation ETIC** recreates the appearance and workflow of a modern network stress-testing utility through a fully interactive terminal interface.
+**DoS ATTACK** recreates the appearance and workflow of a modern network stress-testing utility through a fully interactive terminal interface.
 
 The project focuses on providing a realistic user experience, featuring dynamic logs, animated statistics, colorful dashboards, and configurable options designed for demonstrations, presentations, interface development, and educational environments.
 

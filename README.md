@@ -1,6 +1,6 @@
 <div align="center">
 
-# ⚡ DoS Simulation ETIC
+# ⚡ D0S ATTACK (FREE VERSION)
 
 <!-- Banner -->
 

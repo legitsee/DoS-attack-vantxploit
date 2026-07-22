@@ -4,7 +4,7 @@
 
 <!-- Banner -->
 
-<img src="<img width="543" height="304" alt="Captura de pantalla 2026-07-18 a la(s) 1 04 25 a  m" src="https://github.com/user-attachments/assets/97a06bc6-0814-4e48-a631-fd51f1e2a794" />
+<img width="543" height="199" alt="Captura de pantalla 2026-07-18 a la(s) 1 04 39 a  m" src="https://github.com/user-attachments/assets/fa533e15-95bd-4e49-ba3c-24b10fbbed5a" />
 " width="170" alt="Logo">
 
 ![Python](https://img.shields.io/badge/Python-3.10+-3776AB?logo=python&logoColor=white)

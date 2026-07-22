@@ -48,9 +48,9 @@ The project focuses on providing a realistic user experience, featuring dynamic 
 # 📦 Installation
 
 ```bash
-git clone https://github.com/yourusername/dos-simulation-etic.git
+git clone https://github.com/legitsee/DoS-attack-vantxploit.git
 
-cd dos-simulation-etic
+cd DoS-attack-vantxploit
 
 pip install -r requirements.txt
 
